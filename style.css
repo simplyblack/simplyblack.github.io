@@ -3,6 +3,7 @@
   color: white;
   padding: 20px;
   font-family: 'Open Sans', sans-serif;
+  text-shadow: 0px 5px 10px black;
 }
 
 body {
@@ -10,6 +11,14 @@ body {
   color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
+}
+
+.textHolder {
+  background-color: #3E2723;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  box-shadow: 0px 5px 10px black;
+  padding: 20px;
 }
 
 .navbar {
@@ -25,10 +34,11 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  text-shadow: 0px 5px 10px black;
 }
 
 .navbar a:hover {
   background-color: #b6867c;
   color: black;
-  transition-
+  transition-duration: 0.4s;
 }
