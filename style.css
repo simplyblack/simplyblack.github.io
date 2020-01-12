@@ -17,18 +17,11 @@ body {
   position: relative;
 }
 
-.buttonBlack {
-  padding: 20px 50px;
-  background-color: black;
-  color: white;
-  border: none;
-  cursor: pointer; 
-}
-
-.buttonBlack:hover {
-  padding: 20px 50px;
-  background-color: #232931;
-  color: white;
-  border: none;
-  cursor: pointer; 
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
